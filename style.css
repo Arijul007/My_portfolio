@@ -131,6 +131,7 @@ span
     border-radius: 4rem;
     border: .2rem solid var(--main-color);
     animation:floatImage 4s ease-in-out infinite;
+    margin-top: 2rem;
    
 }
 
@@ -753,6 +754,12 @@ span
     {
         text-align: center;
         margin-top: 2rem;
+    }
+
+    #popup
+    {
+        width: 70%;
+        padding: 10px;
     }
 }
     
